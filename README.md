@@ -5,4 +5,4 @@ API_URL
 ############
 
 To run the sample Press on the button
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/North-Wyke-Farm-Platform/NWFP-API-Demo.git/master?labpath=.ipynb_checkpoints%2FCatchment_Boundary-checkpoint.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/North-Wyke-Farm-Platform/NWFP-API-Demo/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FNorth-Wyke-Farm-Platform%2FNWFP-API-Demo%2Fblob%2Fmain%2FNWFP_API_demo-farmlet-map.ipynb)
