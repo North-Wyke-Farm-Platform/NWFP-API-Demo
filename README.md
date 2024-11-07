@@ -2,8 +2,24 @@ To use this notebook you will need to provide API login credentials. Login crede
 - API_EMAIL
 - API_PASSWORD
 
-To run the sample Press on the button
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/North-Wyke-Farm-Platform/NWFP-API-Demo/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FNorth-Wyke-Farm-Platform%2FNWFP-API-Demo%2Fblob%2Fmain%2FNWFP_API_demo-farmlet-map.ipynb)
+To run the sample you can
+## How to Use Google Colab with GitHub
 
-# login demo
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/North-Wyke-Farm-Platform/NWFP-API-Demo/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FNorth-Wyke-Farm-Platform%2FNWFP-API-Demo%2Fblob%2Fmain%2FNWFP_API_demo_login.ipynb)
+You can use Google Colab with GitHub to run the Jupyter samples included here. Follow these steps:
+
+1. **Open Google Colab**:
+   - Go to Google Colab.
+
+2. **Open a Notebook**:
+   - Select the **File** tab.
+   - Click on **Open notebook**.
+
+3. **Access GitHub**:
+   - Select the **GitHub** tab on the left.
+   - Enter the URL of the GitHub repository or the specific notebook you want to open.
+
+4. **Choose and Open the Notebook**:
+   - Choose the notebook from the list.
+   - Click **Open**.
+
+This operation will download the selected file from GitHub to your notebook. Now you can try this sample.
