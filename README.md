@@ -2,7 +2,7 @@ To use this notebook you will need to provide API login credentials. Login crede
 - API_EMAIL
 - API_PASSWORD
 
-To run the sample you can
+To run the sample you can use Google Colab.
 ## How to Use Google Colab with GitHub
 
 You can use Google Colab with GitHub to run the Jupyter samples included here. Follow these steps:
