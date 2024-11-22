@@ -70,6 +70,11 @@ This operation will download the selected file from GitHub to your notebook. Now
 
 # The notebook examples
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_login.ipynb)
+
+
+
+
 **[NWFP_API_demo_login](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_login.ipynb)** demonstrates logging in and obtaining a bearer token
 
 **[NWFP_API_demo_farmlet_map](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_farmlet_map.ipynb)** demonstrates using the getCatchments endpoint to retrieve and map catchment boundaries
