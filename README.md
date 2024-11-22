@@ -78,25 +78,3 @@ This operation will download the selected file from GitHub to your notebook. Now
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_farmlet_map.ipynb) 
 **[NWFP_API_demo_measurements](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_meaurements.ipynb)** demonstrates using the getMeasurementsByTypeID. The example uses help features to explore data categories then retrieves different measurements using filters and plots the resulting data. 
-
-<a target="_blank" href="https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a><a href="https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo.ipynb">NWFP_API_demo demonstrates fetching some data filtered by the API paramters</a>
-<br>
-<a target="_blank" href="https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_error_handling.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a><a href="https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_error_handling.ipynb">NWFP_API_error_handling demonstrates demonstrates error handling</a>
-<br>
-
-<a target="_blank" href="https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/Catchments boundary map Demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a><a href="https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/Catchments boundary map Demo.ipynb">NWFP_API_demo_farmlet_map demonstrates using the getCatchments endpoint to retrieve and map catchment boundaries</a>
-<br>
-<a target="_blank" href="https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/ChartsSample.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a><a href="https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/ChartsSample.ipynb">ChartsSample.ipynb demonstrates using the requested data to draw some charts </a>
-
-
-
-
-**[NWFP_API_demo_farmlet_map](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_farmlet_map.ipynb)** demonstrates using the getCatchments endpoint to retrieve and map catchment boundaries
