@@ -81,4 +81,4 @@ This operation will download the selected file from GitHub to your notebook. Now
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_Catchment_Flume_Charts.ipynb) 
-**[NWFP_API_demo_MeasurementsByTypeID](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_Catchment_Flume_Charts)** demonstrates Charting for the flume data of Catchments endpoints. 
+**[NWFP_API_demo_MeasurementsByTypeID](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_Catchment_Flume_Charts.ipynb)** demonstrates Charting for the flume data of Catchments endpoints. 
