@@ -77,7 +77,7 @@ This operation will download the selected file from GitHub to your notebook. Now
 **[NWFP_API_demo_farmlet_map](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_farmlet_map.ipynb)** demonstrates using the getCatchments endpoint to retrieve and map catchment boundaries and view basic information
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_animals_info.ipynb) 
-**[NWFP_API_demo_farmlet_map](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_animals_info.ipynb)** demonstrates using the Animals endpoint to retrieve details about an animal and its locations
+**[NWFP_API_demo_animals_info](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_animals_info.ipynb)** demonstrates using the Animals endpoint to retrieve details about an animal and its locations
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_measurements.ipynb) 
