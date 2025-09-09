@@ -80,8 +80,8 @@ This operation will download the selected file from GitHub to your notebook. Now
 **[NWFP_API_demo_animals_info](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_animals_info.ipynb)** demonstrates using the Animals endpoint to retrieve details about an animal and its locations
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_measurements.ipynb) 
-**[NWFP_API_demo_measurements](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_meaurements.ipynb)** demonstrates using the getMeasurementsByTypeID. The example uses help features to explore data categories then retrieves different measurements using filters and plots the resulting data. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_measurements_flute.ipynb) 
+**[NWFP_API_demo_measurements](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_meaurements_flute.ipynb)** demonstrates using the get MeasurementsByTypeID. The example uses help features to explore data categories then retrieves different measurements using filters and plots the resulting data. 
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_Catchment_Flume_Charts.ipynb) 
