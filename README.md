@@ -84,7 +84,7 @@ This operation will download the selected file from GitHub to your notebook. Now
 **[NWFP_API_demo_measurements](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_meaurements_flute.ipynb)** demonstrates using the get MeasurementsByTypeID. The example uses help features to explore data categories then retrieves different measurements using filters and plots the resulting data. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_environment_data.ipynb) 
-**[NWFP_API_demo_enviromental data](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_environment_data.ipynb)** demonstrates using fetchRothcdata api. The example retreives environemtal data over a certain period od time for a cathment
+**[NWFP_API_demo_enviromental data](https://github.com/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_environment_data.ipynb)** demonstrates using fetchRothcdata api. The example retreives environemtal data over a certain period of time for a cathment
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg 'Open in Colab')](https://colab.research.google.com/github/North-Wyke-Farm-Platform/NWFP-API-Demo/blob/main/NWFP_API_demo_Catchment_Flume_Charts.ipynb) 
